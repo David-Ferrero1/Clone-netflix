@@ -1,5 +1,6 @@
 :root {
     --primary-color: #e50914;
+    --dark-color: #141414;
 }
 body {
     font-family: 'Arial', sans-serif;
@@ -77,6 +78,13 @@ img {
     font-size: 1.5rem;
     font-weight: 400;
     margin: 0 0 2rem;
+}
+
+/* TABS */
+.tabs {
+    background: var(--dark-color);
+    padding-top: 1rem;
+    border-bottom: 3px solid #323232;
 }
 
 /* Buttons*/
