@@ -9,5 +9,5 @@ Révision des notions importantes:
 - @mediaquery
 - affichage RESPONSIVE
 - Javascript pour dynamiser l'affichage
-- écoute d'évenement
+- écoute d'événement
 - manipulation du DOM
