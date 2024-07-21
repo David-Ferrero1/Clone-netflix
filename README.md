@@ -2,4 +2,12 @@
 
 Page d'accueil faite en vanilla
 
-23.23
+Objectif: 
+Révision des notions importantes:
+- structure HTML
+- var dans CSS
+- @mediaquery
+- affichage RESPONSIVE
+- Javascript pour dynamiser l'affichage
+- écoute d'évenement
+- manipulation du DOM
